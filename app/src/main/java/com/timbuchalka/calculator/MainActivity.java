@@ -172,4 +172,6 @@ public class MainActivity extends AppCompatActivity {
     public String returnName() {
         return "Naca was here";
     }
+    
+    // This is a commit to test the Git pull process from Android studio.
 }
